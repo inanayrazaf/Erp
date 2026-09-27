@@ -1,0 +1,1 @@
+V6.7.4 basée directement sur V6.7.2. Correction du doublon legacy purchaseForm/savePurchase qui écrasait le formulaire achat avancé. Ajout gestion d’erreurs visible, notifications centrales, paiement total/avance, création fournisseur libre, création produit libre, stock, TVA, DLC, lot et prix de revente. Connexion/normalizeState et fonctions V6.7.2 conservées.
